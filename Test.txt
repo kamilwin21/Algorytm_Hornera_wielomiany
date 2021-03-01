@@ -1,1 +1,3 @@
 to jest test
+TO jest tekst po aktualizacji
+a to też po aktualizacji
